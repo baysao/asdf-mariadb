@@ -1,13 +1,13 @@
-# asdf-dart
+# asdf-mariadb
 
-Dart plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+MariaDB plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add dart https://github.com/baysao/asdf-dart.git
+asdf plugin-add mariadb https://github.com/baysao/asdf-mariadb.git
 ```
 
 ## Use
 
-Check [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install & manage versions of dart.
+Check [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install & manage versions of mariadb.
